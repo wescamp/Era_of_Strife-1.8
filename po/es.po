@@ -70,7 +70,7 @@ msgstr "Minotauros"
 #: Era_of_Strife/factions/saurian-power.cfg:4
 #: Era_of_Strife/factions/saurian-strife.cfg:5
 msgid "Free Saurians"
-msgstr "Saurios liberados"
+msgstr "Saurios libres"
 
 #. [multiplayer_side]: id=triththa, type=EoS Dwarvish Smith
 #. [multiplayer_side]: id=triththa, type=EoS Dwarvish Runesmith
@@ -111,7 +111,7 @@ msgstr ""
 
 #: Era_of_Strife/macros/abilities.cfg:95
 msgid "deluminates"
-msgstr "delumina"
+msgstr "oscurece"
 
 #: Era_of_Strife/macros/abilities.cfg:99
 msgid ""
@@ -252,7 +252,7 @@ msgstr ""
 #. [advancement]: id=firepower
 #: Era_of_Strife/macros/amla.cfg:20
 msgid " damage to all attacks"
-msgstr ""
+msgstr " daño a todos los ataques"
 
 #. [advancement]: id=firepower
 #: Era_of_Strife/macros/amla.cfg:20
@@ -389,12 +389,12 @@ msgstr "Protección y curación +4"
 #. [trait]: id=trait_guard
 #: Era_of_Strife/macros/traits.cfg:68
 msgid "guard"
-msgstr "guarda"
+msgstr "guardia"
 
 #. [trait]: id=trait_guard
 #: Era_of_Strife/macros/traits.cfg:69
 msgid "female^guard"
-msgstr "guarda"
+msgstr "guardia"
 
 #. [trait]: id=trait_guard
 #: Era_of_Strife/macros/traits.cfg:70
@@ -420,7 +420,7 @@ msgstr "Regenera; tiene terror en cuerpo a cuerpo."
 #: Era_of_Strife/macros/weapon-specials.cfg:7
 #: Era_of_Strife/macros/weapon-specials.cfg:8
 msgid "dissolve"
-msgstr "disolver"
+msgstr "disuelve"
 
 #. [berserk]
 #: Era_of_Strife/macros/weapon-specials.cfg:9
@@ -652,7 +652,7 @@ msgstr ""
 #: Era_of_Strife/units/dwarves/Shieldman.cfg:39
 #: Era_of_Strife/units/dwarves/Rusher.cfg:31
 msgid "shield"
-msgstr ""
+msgstr "escudo"
 
 #. [unit_type]: id=EoS Dwarvish Compounder, race=dwarf
 #: Era_of_Strife/units/dwarves/Compounder.cfg:4
@@ -687,7 +687,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Defender, race=dwarf
 #: Era_of_Strife/units/dwarves/Defender.cfg:4
 msgid "Dwarvish Defender"
-msgstr ""
+msgstr "Defensor enano"
 
 #. [unit_type]: id=EoS Dwarvish Defender, race=dwarf
 #: Era_of_Strife/units/dwarves/Defender.cfg:25
@@ -700,7 +700,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:4
 msgid "Dwarvish Guard"
-msgstr ""
+msgstr "Guardian enano"
 
 #. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:24
@@ -762,7 +762,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Runefighter, race=dwarf
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:4
 msgid "Dwarvish Runefighter"
-msgstr "Guerrero enano de las runas"
+msgstr "Luchador rúnico enano"
 
 #. [unit_type]: id=EoS Dwarvish Runefighter, race=dwarf
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:19
@@ -789,7 +789,7 @@ msgstr "martillo rúnico"
 #. [unit_type]: id=EoS Dwarvish Runemaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:4
 msgid "Dwarvish Runemaster"
-msgstr "Maestro enano de las runas"
+msgstr "Maestro rúnico enano"
 
 #. [unit_type]: id=EoS Dwarvish Runemaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:19
@@ -822,7 +822,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:4
 msgid "Dwarvish Runewarrior"
-msgstr ""
+msgstr "Guerrero rúnico enano"
 
 #. [unit_type]: id=EoS Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:19
@@ -836,7 +836,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:51
 msgid "runic hatchet"
-msgstr "hachita runica"
+msgstr "hachita rúnica"
 
 #. [unit_type]: id=EoS Dwarvish Rusher, race=dwarf
 #: Era_of_Strife/units/dwarves/Rusher.cfg:4
@@ -855,7 +855,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Shieldman, race=dwarf
 #: Era_of_Strife/units/dwarves/Shieldman.cfg:4
 msgid "Dwarvish Shieldman"
-msgstr ""
+msgstr "Escudero enano"
 
 #. [unit_type]: id=EoS Dwarvish Shieldman, race=dwarf
 #: Era_of_Strife/units/dwarves/Shieldman.cfg:25
@@ -1024,7 +1024,7 @@ msgstr "espada de luz"
 #. [unit_type]: id=EoS Destroyer, race=eltirean
 #: Era_of_Strife/units/eltireans/Destroyer.cfg:4
 msgid "Destroyer"
-msgstr ""
+msgstr "Destructor"
 
 #. [unit_type]: id=EoS Disciple, race=eltirean
 #: Era_of_Strife/units/eltireans/Disciple.cfg:4
@@ -1138,7 +1138,7 @@ msgstr "Caballero del sol"
 #. [unit_type]: id=EoS Fury, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Fury.cfg:4
 msgid "Fury"
-msgstr ""
+msgstr "Furia"
 
 #. [unit_type]: id=EoS Raging Mistress, race=eltirean
 #. [unit_type]: id=EoS Siren, race=eltirean
@@ -1175,12 +1175,12 @@ msgstr ""
 #. [unit_type]: id=EoS Siren, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Siren.cfg:4
 msgid "Siren"
-msgstr ""
+msgstr "Sirena"
 
 #. [unit_type]: id=EoS Temptress, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:4
 msgid "Temptress"
-msgstr ""
+msgstr "Tentadora"
 
 #. [unit_type]: id=EoS Ladyofwar, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_War.cfg:5
@@ -1268,7 +1268,7 @@ msgstr ""
 #. [unit_type]: id=EoS Auxilary, race=human
 #: Era_of_Strife/units/eventide/Auxilary.cfg:4
 msgid "Auxiliary"
-msgstr ""
+msgstr "Auxiliar"
 
 #. [unit_type]: id=EoS Auxilary, race=human
 #: Era_of_Strife/units/eventide/Auxilary.cfg:17
@@ -1283,7 +1283,7 @@ msgstr ""
 #. [female]
 #: Era_of_Strife/units/eventide/Auxilary.cfg:79
 msgid "female^Auxiliary"
-msgstr ""
+msgstr "Auxiliar"
 
 #. [unit_type]: id=EoS Desperado, race=human
 #: Era_of_Strife/units/eventide/Desperado.cfg:5
@@ -1377,14 +1377,14 @@ msgstr ""
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:37
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:47
 msgid "flaming sword"
-msgstr ""
+msgstr "espada flameante"
 
 #. [attack]: type=blade
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:46
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:35
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:36
 msgid "poisoned dagger"
-msgstr ""
+msgstr "daga envenenada"
 
 #. [unit_type]: id=EoS EventideHerbalist, race=human
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:4
@@ -1439,7 +1439,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Era_of_Strife/units/eventide/Lineman.cfg:45
 msgid "thrown spear"
-msgstr ""
+msgstr "lanza tirada"
 
 #. [female]
 #: Era_of_Strife/units/eventide/Lineman.cfg:104
@@ -1462,7 +1462,7 @@ msgstr ""
 #. [unit_type]: id=EoS Mariner, race=human
 #: Era_of_Strife/units/eventide/Mariner.cfg:4
 msgid "Mariner"
-msgstr ""
+msgstr "Marinero"
 
 #. [unit_type]: id=EoS Mariner, race=human
 #: Era_of_Strife/units/eventide/Mariner.cfg:16
@@ -1586,7 +1586,7 @@ msgstr ""
 #. [unit_type]: id=EoS Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:4
 msgid "Behemoth"
-msgstr ""
+msgstr "Behemoth"
 
 #. [unit_type]: id=EoS Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:20
@@ -1614,7 +1614,7 @@ msgstr "mutilar"
 #. [unit_type]: id=EoS Minotaur Ancient Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:4
 msgid "Ancient Behemoth"
-msgstr ""
+msgstr "Behemoth Antiguo"
 
 #. [unit_type]: id=EoS Minotaur Ancient Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:21
@@ -1636,7 +1636,7 @@ msgstr ""
 #. [unit_type]: id=EoS Boar Cataphract, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:4
 msgid "Cataphract"
-msgstr ""
+msgstr "Catapracta"
 
 #. [unit_type]: id=EoS Boar Cataphract, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:36
@@ -1687,7 +1687,7 @@ msgstr ""
 #. [unit_type]: id=EoS Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:4
 msgid "Gore"
-msgstr ""
+msgstr "Gore"
 
 #. [unit_type]: id=EoS Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:17
@@ -1851,7 +1851,7 @@ msgstr ""
 #. [unit_type]: id=EoS Minotaur Shaman, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:4
 msgid "Shaman"
-msgstr ""
+msgstr "Shaman"
 
 #. [unit_type]: id=EoS Minotaur Shaman, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:20
@@ -1879,7 +1879,7 @@ msgstr ""
 #. [unit_type]: id=EoS Frozen Soul, race=undead
 #: Era_of_Strife/units/saurians/Frozen_Soul.cfg:4
 msgid "Frozen Soul"
-msgstr "Alma Helada"
+msgstr "Alma helada"
 
 #. [unit_type]: id=EoS Frozen Soul, race=undead
 #: Era_of_Strife/units/saurians/Frozen_Soul.cfg:19
@@ -1899,7 +1899,7 @@ msgstr "aura frígida"
 #. [unit_type]: id=EoS Ice Heart, race=undead
 #: Era_of_Strife/units/saurians/Ice_Heart.cfg:4
 msgid "Ice Heart"
-msgstr "Corazón de helado"
+msgstr "Corazón de hielo"
 
 #. [unit_type]: id=EoS Ice Heart, race=undead
 #: Era_of_Strife/units/saurians/Ice_Heart.cfg:19
@@ -1944,7 +1944,7 @@ msgstr "onda fría"
 #. [unit_type]: id=EoS Saurian Hero, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Hero.cfg:4
 msgid "Saurian Hero"
-msgstr ""
+msgstr "Heroe saurio"
 
 #. [unit_type]: id=EoS Saurian Holy, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:4
@@ -1959,20 +1959,20 @@ msgstr "proyectil sagrado"
 #. [unit_type]: id=EoS Saurian Ice Lord, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:4
 msgid "Saurian Ice Lord"
-msgstr "Señor saurio del helado"
+msgstr "Señor saurio del hielo"
 
 #. [attack]: type=cold
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:43
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:43
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:44
 msgid "coldest wave"
-msgstr "onda la más fría"
+msgstr "la onda más fría"
 
 #. [attack]: type=pierce
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:56
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:57
 msgid "ice shards"
-msgstr "cascos de helado"
+msgstr "trozos de hielo"
 
 #. [unit_type]: id=EoS Saurian Knife thrower, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:4
@@ -2022,7 +2022,7 @@ msgstr "Aprendiz saurio"
 #. [attack]: type=blade
 #: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:34
 msgid "throwing knives"
-msgstr ""
+msgstr "arrojar cuchillos"
 
 #. [unit_type]: id=EoS Saurian Warrior, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:4
