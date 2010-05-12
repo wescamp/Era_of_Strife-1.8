@@ -47,10 +47,10 @@ MSGINIT = msginit
 MSGCONV = msgconv
 MSGFILTER = msgfilter
 
-POFILES = cs.po
-GMOFILES = cs.gmo
-UPDATEPOFILES = cs.po-update
-DUMMYPOFILES = cs.nop
+POFILES = cs.po es.po
+GMOFILES = cs.gmo es.gmo
+UPDATEPOFILES = cs.po-update es.po-update
+DUMMYPOFILES = cs.nop es.nop
 DISTFILES.common = Makefile.in.in remove-potcdate.sin \
 $(DISTFILES.common.extra1) $(DISTFILES.common.extra2) $(DISTFILES.common.extra3)
 DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
@@ -58,7 +58,7 @@ DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
 
 POTFILES = \
 
-CATALOGS = cs.gmo
+CATALOGS = af.gmo ar.gmo bg.gmo ca.gmo ca_ES@valencia.gmo cs.gmo da.gmo de.gmo el.gmo en_GB.gmo en@shaw.gmo es.gmo eo.gmo et.gmo eu.gmo fi.gmo fr.gmo fur_IT.gmo gl.gmo he.gmo hr.gmo hu.gmo id.gmo is.gmo it.gmo ja.gmo ko.gmo la.gmo lt.gmo lv.gmo mk.gmo mr.gmo nl.gmo nb_NO.gmo pl.gmo pt.gmo pt_BR.gmo racv.gmo ro.gmo ru.gmo sk.gmo sl.gmo sr.gmo sr@ijekavian.gmo sr@ijekavianlatin.gmo sr@latin.gmo sv.gmo tl.gmo tr.gmo vi.gmo zh_CN.gmo zh_TW.gmo
 
 # Makevars gets inserted here. (Don't remove this line!)
 # Makefile variables for PO directory in any package using GNU gettext.
