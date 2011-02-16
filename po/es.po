@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-11 22:59-0400\n"
-"PO-Revision-Date: 2010-05-11 23:21-0500\n"
+"POT-Creation-Date: 2011-02-16 16:40-0500\n"
+"PO-Revision-Date: 2011-02-16 16:40-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,48 +37,48 @@ msgstr ""
 msgid "Era of Strife"
 msgstr ""
 
-#. [multiplayer_side]: id=eltireans, type=EoS Ladyofwar
 #. [multiplayer_side]: id=eltireans, type=EoS Fury
 #. [multiplayer_side]: id=eltireans, type=EoS Raging Mistress
-#: Era_of_Strife/factions/eltirean-rpg.cfg:4
+#. [multiplayer_side]: id=eltireans, type=EoS Ladyofwar
 #: Era_of_Strife/factions/eltirean-strife.cfg:4
 #: Era_of_Strife/factions/eltirean-power.cfg:4
+#: Era_of_Strife/factions/eltirean-rpg.cfg:4
 msgid "Eltireans"
 msgstr "Eltireanos"
 
-#. [multiplayer_side]: id=eventide, type=EoS DiuBowMistress
 #. [multiplayer_side]: id=eventide, type=EoS DiuBowmaid
 #. [multiplayer_side]: id=eventide, type=EoS DiuKeenshot
-#: Era_of_Strife/factions/eventide-strife.cfg:4
+#. [multiplayer_side]: id=eventide, type=EoS DiuBowMistress
 #: Era_of_Strife/factions/eventide-rpg.cfg:4
 #: Era_of_Strife/factions/eventide-power.cfg:4
+#: Era_of_Strife/factions/eventide-strife.cfg:4
 msgid "Eventide"
 msgstr "Eventide"
 
 #. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Mystic
-#. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Elder
 #. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Shaman
+#. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Elder
 #: Era_of_Strife/factions/minotaur-strife.cfg:4
-#: Era_of_Strife/factions/minotaur-power.cfg:4
 #: Era_of_Strife/factions/minotaur-rpg.cfg:4
+#: Era_of_Strife/factions/minotaur-power.cfg:4
 msgid "Minotaurs"
 msgstr "Minotauros"
 
+#. [multiplayer_side]: id=saurians, type=EoS Saurian Mystic
 #. [multiplayer_side]: id=saurians, type=EoS Saurian Sage
 #. [multiplayer_side]: id=saurians, type=EoS Saurian Holy
-#. [multiplayer_side]: id=saurians, type=EoS Saurian Mystic
+#: Era_of_Strife/factions/saurian-strife.cfg:5
 #: Era_of_Strife/factions/saurian-rpg.cfg:4
 #: Era_of_Strife/factions/saurian-power.cfg:4
-#: Era_of_Strife/factions/saurian-strife.cfg:5
 msgid "Free Saurians"
 msgstr "Saurios libres"
 
-#. [multiplayer_side]: id=triththa, type=EoS Dwarvish Smith
 #. [multiplayer_side]: id=triththa, type=EoS Dwarvish Runesmith
 #. [multiplayer_side]: id=triththa, type=EoS Dwarvish Runemaster
-#: Era_of_Strife/factions/triththa-rpg.cfg:4
+#. [multiplayer_side]: id=triththa, type=EoS Dwarvish Smith
 #: Era_of_Strife/factions/triththa-strife.cfg:4
 #: Era_of_Strife/factions/triththa-power.cfg:4
+#: Era_of_Strife/factions/triththa-rpg.cfg:4
 msgid "Triththa"
 msgstr "Triththa"
 
@@ -643,14 +644,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:48
-#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:47
-#: Era_of_Strife/units/dwarves/Charger.cfg:31
 #: Era_of_Strife/units/dwarves/Linebreaker.cfg:32
-#: Era_of_Strife/units/dwarves/Guard.cfg:39
 #: Era_of_Strife/units/dwarves/Defender.cfg:48
-#: Era_of_Strife/units/dwarves/Shieldman.cfg:39
 #: Era_of_Strife/units/dwarves/Rusher.cfg:31
+#: Era_of_Strife/units/dwarves/Guard.cfg:39
+#: Era_of_Strife/units/dwarves/Shieldman.cfg:39
+#: Era_of_Strife/units/dwarves/Charger.cfg:31
+#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:47
+#: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:48
 msgid "shield"
 msgstr "escudo"
 
@@ -700,7 +701,7 @@ msgstr ""
 #. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:4
 msgid "Dwarvish Guard"
-msgstr "Guardian enano"
+msgstr "Guardián enano"
 
 #. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:24
@@ -773,16 +774,16 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Strife/units/dwarves/Runewarrior.cfg:27
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:24
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:27
 msgid "runic axe"
 msgstr "hacha rúnica"
 
 #. [attack]: type=impact
-#: Era_of_Strife/units/dwarves/Runemaster.cfg:24
-#: Era_of_Strife/units/dwarves/Runewarrior.cfg:39
-#: Era_of_Strife/units/dwarves/Runesmith.cfg:23
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:36
+#: Era_of_Strife/units/dwarves/Runesmith.cfg:23
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:39
+#: Era_of_Strife/units/dwarves/Runemaster.cfg:24
 msgid "runic hammer"
 msgstr "martillo rúnico"
 
@@ -883,86 +884,86 @@ msgstr ""
 msgid "Archbishop of Eltire"
 msgstr ""
 
-#. [unit_type]: id=EoS Saurian Sage, race=lizard
-#. [unit_type]: id=EoS Saurian Holy, race=lizard
-#. [unit_type]: id=EoS Saurian Warrior, race=lizard
+#. [unit_type]: id=EoS Sky Captain, race=eltirean
+#. [unit_type]: id=EoS Frostwalker, race=eltirean
+#. [unit_type]: id=EoS Hydromonger, race=eltirean
+#. [unit_type]: id=EoS Crusher, race=eltirean
+#. [unit_type]: id=EoS Patrol Captain, race=eltirean
+#. [unit_type]: id=EoS Calmblade, race=eltirean
+#. [unit_type]: id=EoS Elementalist, race=eltirean
+#. [unit_type]: id=EoS Whirlpool Lord, race=eltirean
+#. [unit_type]: id=EoS Bishop, race=eltirean
+#. [unit_type]: id=EoS Destroyer, race=eltirean
+#. [unit_type]: id=EoS Pyromancer, race=eltirean
+#. [unit_type]: id=EoS Wind Strider, race=windelemental
+#. [unit_type]: id=EoS Hydromancer, race=eltirean
+#. [unit_type]: id=EoS Archbishop, race=eltirean
+#. [unit_type]: id=EoS Lightbringer, race=eltirean
+#. [unit_type]: id=EoS Swamp Saurian, race=lizard
+#. [unit_type]: id=EoS Saurian Knife thrower, race=lizard
+#. [unit_type]: id=EoS Saurian Healer, race=lizard
+#. [unit_type]: id=EoS Saurian Ice Lord, race=lizard
+#. [unit_type]: id=EoS Swamp Guard, race=lizard
 #. [unit_type]: id=EoS Saurian Shockfrost, race=lizard
 #. [unit_type]: id=EoS Swamp Margrave, race=lizard
-#. [unit_type]: id=EoS Swamp Saurian, race=lizard
+#. [unit_type]: id=EoS Saurian Warrior, race=lizard
 #. [unit_type]: id=EoS Tarantula, race=monster
-#. [unit_type]: id=EoS Saurian Soulmage, race=lizard
-#. [unit_type]: id=EoS Saurian Hero, race=lizard
-#. [unit_type]: id=EoS Saurian Assassin, race=lizard
-#. [unit_type]: id=EoS Saurian Skulker, race=lizard
-#. [unit_type]: id=EoS Saurian Healer, race=lizard
-#. [unit_type]: id=EoS Saurian Lizard Rider, race=lizard
-#. [unit_type]: id=EoS Saurian Elementalist, race=lizard
-#. [unit_type]: id=EoS Saurian Ice Lord, race=lizard
-#. [unit_type]: id=EoS Swamp Warrior, race=lizard
-#. [unit_type]: id=EoS Saurian Trainee, race=lizard
 #. [unit_type]: id=EoS Swamp Fighter, race=lizard
-#. [unit_type]: id=EoS Swamp Guard, race=lizard
+#. [unit_type]: id=EoS Saurian Lizard Rider, race=lizard
 #. [unit_type]: id=EoS Saurian Lizard Master, race=lizard
+#. [unit_type]: id=EoS Saurian Skulker, race=lizard
+#. [unit_type]: id=EoS Saurian Assassin, race=lizard
+#. [unit_type]: id=EoS Saurian Hero, race=lizard
+#. [unit_type]: id=EoS Saurian Sage, race=lizard
+#. [unit_type]: id=EoS Saurian Trainee, race=lizard
 #. [unit_type]: id=EoS Saurian Mystic, race=lizard
-#. [unit_type]: id=EoS Saurian Knife thrower, race=lizard
-#. [unit_type]: id=EoS Calmblade, race=eltirean
-#. [unit_type]: id=EoS Pyromancer, race=eltirean
-#. [unit_type]: id=EoS Archbishop, race=eltirean
-#. [unit_type]: id=EoS Frostwalker, race=eltirean
-#. [unit_type]: id=EoS Sky Captain, race=eltirean
-#. [unit_type]: id=EoS Wind Strider, race=windelemental
-#. [unit_type]: id=EoS Bishop, race=eltirean
-#. [unit_type]: id=EoS Whirlpool Lord, race=eltirean
-#. [unit_type]: id=EoS Destroyer, race=eltirean
-#. [unit_type]: id=EoS Crusher, race=eltirean
-#. [unit_type]: id=EoS Hydromancer, race=eltirean
-#. [unit_type]: id=EoS Patrol Captain, race=eltirean
-#. [unit_type]: id=EoS Elementalist, race=eltirean
-#. [unit_type]: id=EoS Hydromonger, race=eltirean
-#. [unit_type]: id=EoS Lightbringer, race=eltirean
-#: Era_of_Strife/units/saurians/Saurian_Sage.cfg:19
-#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:21
-#: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:19
+#. [unit_type]: id=EoS Saurian Soulmage, race=lizard
+#. [unit_type]: id=EoS Saurian Holy, race=lizard
+#. [unit_type]: id=EoS Swamp Warrior, race=lizard
+#. [unit_type]: id=EoS Saurian Elementalist, race=lizard
+#: Era_of_Strife/units/eltireans/Sky_Captain.cfg:18
+#: Era_of_Strife/units/eltireans/Frostwalker.cfg:19
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:18
+#: Era_of_Strife/units/eltireans/Crusher.cfg:18
+#: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:18
+#: Era_of_Strife/units/eltireans/Calmblade.cfg:18
+#: Era_of_Strife/units/eltireans/Elementalist.cfg:18
+#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:19
+#: Era_of_Strife/units/eltireans/Bishop.cfg:18
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:19
+#: Era_of_Strife/units/eltireans/Pyromancer.cfg:18
+#: Era_of_Strife/units/eltireans/Wind_Strider.cfg:19
+#: Era_of_Strife/units/eltireans/Hydromancer.cfg:18
+#: Era_of_Strife/units/eltireans/Archbishop.cfg:19
+#: Era_of_Strife/units/eltireans/Lightbringer.cfg:19
+#: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:18
+#: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:26
+#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:30
+#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:32
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:29
 #: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:33
-#: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:18
+#: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:19
 #: Era_of_Strife/units/saurians/Tarantula.cfg:21
-#: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:29
-#: Era_of_Strife/units/saurians/Saurian_Hero.cfg:20
-#: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:26
-#: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:25
-#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:20
-#: Era_of_Strife/units/saurians/Lizard_Rider.cfg:20
-#: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:27
-#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:30
-#: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:19
-#: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:20
 #: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:18
-#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:32
+#: Era_of_Strife/units/saurians/Lizard_Rider.cfg:20
 #: Era_of_Strife/units/saurians/Lizard_Master.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:25
+#: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:26
+#: Era_of_Strife/units/saurians/Saurian_Hero.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Sage.cfg:19
+#: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:20
 #: Era_of_Strife/units/saurians/Saurian_Mystic.cfg:20
-#: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:26
-#: Era_of_Strife/units/eltireans/Calmblade.cfg:18
-#: Era_of_Strife/units/eltireans/Pyromancer.cfg:18
-#: Era_of_Strife/units/eltireans/Archbishop.cfg:19
-#: Era_of_Strife/units/eltireans/Frostwalker.cfg:19
-#: Era_of_Strife/units/eltireans/Sky_Captain.cfg:18
-#: Era_of_Strife/units/eltireans/Wind_Strider.cfg:19
-#: Era_of_Strife/units/eltireans/Bishop.cfg:18
-#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:19
-#: Era_of_Strife/units/eltireans/Destroyer.cfg:19
-#: Era_of_Strife/units/eltireans/Crusher.cfg:18
-#: Era_of_Strife/units/eltireans/Hydromancer.cfg:18
-#: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:18
-#: Era_of_Strife/units/eltireans/Elementalist.cfg:18
-#: Era_of_Strife/units/eltireans/Hydromonger.cfg:18
-#: Era_of_Strife/units/eltireans/Lightbringer.cfg:19
+#: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:29
+#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:21
+#: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:19
+#: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:27
 msgid "..."
 msgstr "..."
 
 #. [attack]: type=arcane
-#: Era_of_Strife/units/eltireans/Archbishop.cfg:39
 #: Era_of_Strife/units/eltireans/Bishop.cfg:38
+#: Era_of_Strife/units/eltireans/Archbishop.cfg:39
 msgid "lightbolt"
 msgstr ""
 
@@ -977,8 +978,8 @@ msgid "Calmblade"
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Strife/units/eltireans/Calmblade.cfg:32
 #: Era_of_Strife/units/eltireans/Frostwalker.cfg:33
+#: Era_of_Strife/units/eltireans/Calmblade.cfg:32
 msgid "coldblade"
 msgstr ""
 
@@ -988,14 +989,14 @@ msgid "Crusher"
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Strife/units/eltireans/Destroyer.cfg:24
 #: Era_of_Strife/units/eltireans/Crusher.cfg:23
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:24
 msgid "greatsword"
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Strife/units/eltireans/Destroyer.cfg:33
 #: Era_of_Strife/units/eltireans/Crusher.cfg:32
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:33
 msgid "stunstrike"
 msgstr ""
 
@@ -1004,14 +1005,14 @@ msgstr ""
 msgid "Dawnbringer"
 msgstr "Portadora de amanecer"
 
-#. [unit_type]: id=EoS Infernal Master, race=eltirean
-#. [unit_type]: id=EoS Wind Rider, race=windelemental
-#. [unit_type]: id=EoS Dawnbringer, race=eltirean
 #. [unit_type]: id=EoS Disciple, race=eltirean
-#: Era_of_Strife/units/eltireans/Infernal_Master.cfg:19
-#: Era_of_Strife/units/eltireans/Wind_Rider.cfg:18
-#: Era_of_Strife/units/eltireans/Dawnbringer.cfg:20
+#. [unit_type]: id=EoS Dawnbringer, race=eltirean
+#. [unit_type]: id=EoS Wind Rider, race=windelemental
+#. [unit_type]: id=EoS Infernal Master, race=eltirean
 #: Era_of_Strife/units/eltireans/Disciple.cfg:18
+#: Era_of_Strife/units/eltireans/Dawnbringer.cfg:20
+#: Era_of_Strife/units/eltireans/Wind_Rider.cfg:18
+#: Era_of_Strife/units/eltireans/Infernal_Master.cfg:19
 msgid "."
 msgstr "."
 
@@ -1037,10 +1038,10 @@ msgid "Elementalist"
 msgstr "Elementalista"
 
 #. [attack]: type=cold
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:46
+#: Era_of_Strife/units/eltireans/Elementalist.cfg:43
 #: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:50
 #: Era_of_Strife/units/eltireans/Hydromancer.cfg:41
-#: Era_of_Strife/units/eltireans/Elementalist.cfg:43
-#: Era_of_Strife/units/eltireans/Hydromonger.cfg:46
 msgid "cold shards"
 msgstr ""
 
@@ -1063,14 +1064,14 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:33
-#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:35
 #: Era_of_Strife/units/eltireans/Sky_Captain.cfg:35
-#: Era_of_Strife/units/eltireans/Lady_War.cfg:33
 #: Era_of_Strife/units/eltireans/Gloryseeker.cfg:32
-#: Era_of_Strife/units/eltireans/Sky_Lord.cfg:36
 #: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:35
-#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:32
 #: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:35
+#: Era_of_Strife/units/eltireans/Sky_Lord.cfg:36
+#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:35
+#: Era_of_Strife/units/eltireans/Lady_War.cfg:33
+#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:32
 msgid "bowgun"
 msgstr ""
 
@@ -1080,9 +1081,9 @@ msgid "Hydromancer"
 msgstr "Hidromante"
 
 #. [attack]: type=impact
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:37
 #: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:41
 #: Era_of_Strife/units/eltireans/Hydromancer.cfg:32
-#: Era_of_Strife/units/eltireans/Hydromonger.cfg:37
 msgid "hydroblast"
 msgstr "ráfaga de agua"
 
@@ -1108,11 +1109,11 @@ msgid "Knight Errant"
 msgstr "Caballero andante"
 
 #. [unit_type]: id=EoS Knight Errant, race=eltirean
-#. [unit_type]: id=EoS Knight of the Sun, race=eltirean
 #. [unit_type]: id=EoS Guardian of the Sun, race=eltirean
+#. [unit_type]: id=EoS Knight of the Sun, race=eltirean
 #: Era_of_Strife/units/eltireans/Knight_Errant.cfg:18
-#: Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
 #: Era_of_Strife/units/eltireans/Knight_Guardian.cfg:19
+#: Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
 msgid ""
 "Extremely talented warriors who come to the barracks are instead taken to "
 "the monasteries of Eltire, where they are learned the secrets of effective "
@@ -1141,14 +1142,14 @@ msgid "Fury"
 msgstr "Furia"
 
 #. [unit_type]: id=EoS Raging Mistress, race=eltirean
+#. [unit_type]: id=EoS Temptress, race=eltirean
 #. [unit_type]: id=EoS Siren, race=eltirean
 #. [unit_type]: id=EoS Ladyofwar, race=eltirean
-#. [unit_type]: id=EoS Temptress, race=eltirean
 #. [unit_type]: id=EoS Fury, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:19
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:18
 #: Era_of_Strife/units/eltireans/Lady_Siren.cfg:18
 #: Era_of_Strife/units/eltireans/Lady_War.cfg:19
-#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:18
 #: Era_of_Strife/units/eltireans/Lady_Fury.cfg:18
 msgid ""
 "Eltirean women usually abandon their melee capabilities in favor of "
@@ -1160,9 +1161,9 @@ msgstr ""
 #. [attack]: type=pierce
 #. [attack]: type=blade
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:24
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:23
 #: Era_of_Strife/units/eltireans/Lady_Siren.cfg:23
 #: Era_of_Strife/units/eltireans/Lady_War.cfg:24
-#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:23
 #: Era_of_Strife/units/eltireans/Lady_Fury.cfg:23
 msgid "stiletto"
 msgstr ""
@@ -1380,9 +1381,9 @@ msgid "flaming sword"
 msgstr "espada flameante"
 
 #. [attack]: type=blade
+#: Era_of_Strife/units/eventide/EventideHerbalist.cfg:36
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:46
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:35
-#: Era_of_Strife/units/eventide/EventideHerbalist.cfg:36
 msgid "poisoned dagger"
 msgstr "daga envenenada"
 
@@ -1474,9 +1475,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Strife/units/eventide/Swabbie.cfg:38
 #: Era_of_Strife/units/eventide/Navigator.cfg:22
 #: Era_of_Strife/units/eventide/Mariner.cfg:21
+#: Era_of_Strife/units/eventide/Swabbie.cfg:38
 msgid "cutlass"
 msgstr "sable"
 
@@ -1606,8 +1607,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Strife/units/minotaurs/Behemoth.cfg:27
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:28
+#: Era_of_Strife/units/minotaurs/Behemoth.cfg:27
 msgid "maul"
 msgstr "mutilar"
 
@@ -1651,8 +1652,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:51
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:52
+#: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:51
 #: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:51
 msgid "trample"
 msgstr ""
@@ -1760,12 +1761,12 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=impact
-#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:26
-#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:34
 #: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:31
 #: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:42
 #: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:30
 #: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:38
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:26
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:34
 msgid "kusarigama"
 msgstr "kusarigama"
 
@@ -1824,10 +1825,10 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
+#: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:38
 #: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:37
 #: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:36
 #: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:37
-#: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:38
 msgid "aura blast"
 msgstr "ráfaga de aura"
 
@@ -1890,9 +1891,9 @@ msgid ""
 msgstr "Las almas heladas son los almas de gente que he terriblemente forzado "
 
 #. [attack]: type=cold
-#: Era_of_Strife/units/saurians/Ice_Heart.cfg:35
 #: Era_of_Strife/units/saurians/Frozen_Soul.cfg:23
 #: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:52
+#: Era_of_Strife/units/saurians/Ice_Heart.cfg:35
 msgid "frigid aura"
 msgstr "aura frígida"
 
@@ -1935,9 +1936,9 @@ msgid "Saurian Healer"
 msgstr "Curador saurio"
 
 #. [attack]: type=cold
+#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:37
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:34
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:38
-#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:37
 msgid "cold wave"
 msgstr "onda fría"
 
@@ -1962,15 +1963,15 @@ msgid "Saurian Ice Lord"
 msgstr "Señor saurio del hielo"
 
 #. [attack]: type=cold
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:44
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:43
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:43
-#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:44
 msgid "coldest wave"
 msgstr "la onda más fría"
 
 #. [attack]: type=pierce
-#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:56
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:57
+#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:56
 msgid "ice shards"
 msgstr "trozos de hielo"
 
